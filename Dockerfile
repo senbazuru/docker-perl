@@ -1,7 +1,5 @@
 FROM centos:centos7
 MAINTAINER senbazuru
-# See Also:
-# https://hub.docker.com/r/dqneo/perl/
 
 # install required packages
 RUN yum -y update; yum clean all
