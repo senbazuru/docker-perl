@@ -1,5 +1,5 @@
 FROM centos:centos7
-MAINTAINER SENCORP
+MAINTAINER senbazuru
 # See Also:
 # https://hub.docker.com/r/dqneo/perl/
 
